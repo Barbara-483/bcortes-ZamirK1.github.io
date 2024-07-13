@@ -1,0 +1,52 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0px;
+  background-image: url(imagenes/back-adidas-1.jpeg);
+}
+.header_1 {
+  background-image: url(imagenes/back-adidas-1.jpeg);
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.span_1 {
+  color: black;
+  font-size: 100px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+p {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3em;
+  background-color: rgb(148, 189, 221);
+  border-radius: 15 px;
+  width: 100%;
+}
+.products {
+  width: 70%;
+  margin: auto;
+}
+.products td {
+  width: 50%;
+  padding: 2em;
+}
+.products img {
+  width: 100%;
+}
+
+/* footer */
+footer {
+  background-image: url(imagenes/back-adidas-1.jpeg);
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-copy p {
+  font-size: 0.9em;
+  color: black;
+}

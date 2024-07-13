@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(142, 219, 142);
+}
+footer {
+  background-color: rgb(142, 219, 142);
+}
+
+#clase_flex {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 50px;
+}
+
+#clase_flex2 {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 50px;
+}

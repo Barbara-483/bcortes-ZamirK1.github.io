@@ -1,0 +1,127 @@
+body {
+  background-color: black;
+}
+.header_1 {
+  background-color: black;
+  font-size: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  height: 73px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: green;
+  text-decoration: inherit;
+}
+img {
+  width: 316px;
+  height: 202px;
+}
+
+.bg-header {
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+}
+.div_1 {
+  background-color: black;
+  width: 100%;
+  height: 348px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.color_letras {
+  color: white;
+  top: 876px;
+  left: 150px;
+  width: 475px;
+  height: 197px;
+}
+.imagen-1 {
+  top: 845px;
+  left: 731px;
+  width: 399px;
+  height: 237px;
+}
+.divisor_2 {
+  width: 100%;
+  height: 348px;
+  background: #1e1a13 0% 0% no-repeat padding-box;
+  opacity: 0.98;
+}
+
+.h2_caracteristicas {
+  color: white;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  padding-top: 70px;
+  font-family: "Times New Roman", Times, serif;
+}
+i {
+  color: white;
+  font-size: 50px;
+}
+.div_i {
+  display: flex;
+  justify-content: space-evenly;
+}
+.div_h3 {
+  display: flex;
+  justify-content: space-evenly;
+}
+h3 {
+  color: white;
+  font: normal normal 300 20px/24px Raleway;
+}
+.tercer-ojo {
+  padding-left: 55px;
+}
+.Pacificas_1 {
+  padding-left: 50px;
+}
+.cambia_1 {
+  padding-right: 40px;
+}
+
+.div_fotos3 {
+  width: 100%;
+  height: 348px;
+  background: black 0% 0% no-repeat padding-box;
+  opacity: 0.98;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.cuadro_1 {
+  width: 316px;
+  height: 202px;
+  margin-left: 370px;
+}
+.cuadro_2 {
+  width: 316px;
+  height: 202px;
+}
+.cuadro_3 {
+  width: 316px;
+  height: 202px;
+  margin-right: 370px;
+}
+.footer_1 {
+  font-size: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 105px;
+  background: #1e1a13 0% 0% no-repeat padding-box;
+  opacity: 0.94;
+  border: none;
+}

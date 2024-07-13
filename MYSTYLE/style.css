@@ -1,0 +1,24 @@
+/* Estilos generales */
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(108, 117, 184);
+  color: rgb(67, 27, 27);
+}
+/* Hero Section */
+
+#Hero-Section {
+  background-color: rgb(136, 141, 177);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.item-tech img {
+  height: 5em;
+}
+#backcolor-1 {
+  background-color: rgb(105, 108, 130);
+  opacity: 50%;
+}

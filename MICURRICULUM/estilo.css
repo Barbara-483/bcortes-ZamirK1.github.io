@@ -1,0 +1,115 @@
+/* styles.css */
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(108, 117, 184);
+  color: rgb(67, 27, 27);
+}
+
+.container1 {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: rgb(136, 141, 177);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+  color: #007bff;
+}
+
+header p {
+  margin: 5px 0;
+  color: #000000;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+section h2 {
+  border-bottom: 2px solid #3e4145;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.job,
+.education-item {
+  margin-bottom: 10px;
+}
+
+h3 {
+  margin: 0;
+  font-size: 1.2em;
+  color: #333;
+}
+
+#skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+#skills li {
+  background: #000000;
+  color: #fff;
+  display: inline-block;
+  margin: 5px 5px 5px 0;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: rgb(136, 141, 177);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+  color: #0000007e;
+}
+
+.contact {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.contact a {
+  color: #283149;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+.item-tech img {
+  height: 5em;
+}
+#backcolor-1 {
+  background-color: rgb(136, 141, 177);
+  opacity: 50%;
+}
+.primeraseccion-1 {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: rgb(136, 141, 177);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
